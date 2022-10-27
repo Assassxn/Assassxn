@@ -1,4 +1,4 @@
-[![Assassin's GitHub stats](https://github-readme-stats.vercel.app/api?username=AssassinCodes&count_private=true&show_icons=true&title_color=f11e45&cache_seconds=86400&bg_color=1a3950&icon_color=1accd6)](https://github.com/AssassinCodes/github-readme-stats)
+[![Assassin's GitHub stats](https://github-readme-stats.vercel.app/api?username=AssassinCodes&count_private=true&show_icons=true&title_color=f11e45&cache_seconds=86400&bg_color=1a3950&icon_color=1accd6&text_color=ffffff)](https://github.com/AssassinCodes/github-readme-stats)
 
 <!--
 **AssassinCodes/AssassinCodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
