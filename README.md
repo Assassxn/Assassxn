@@ -10,3 +10,4 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Assassxn&icon=0&color=12)](https://visitcount.itsvg.in)
+If you like my work and would like to support me, please consider donating [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/U7U5T82GR)
