@@ -11,5 +11,5 @@
 ---
 ### If you like my work and would like to support me, please consider donating
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/U7U5T82GR)
-[![](https://visitcount.itsvg.in/api?id=Assassxn&icon=0&color=12)](https://visitcount.itsvg.in)
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/U7U5T82GR)<br/>
+[![](https://komarev.com/ghpvc/?username=Assassxn&label=Profile%20views&color=ce2043&style=flat)]()
